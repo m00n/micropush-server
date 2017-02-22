@@ -1,0 +1,7 @@
+{
+    "DEBUG": true,
+    "DB": "sqlite:////tmp/db.sqlite",
+    "SECRET_KEY": "",
+    "FCM_KEY": "",
+    "UPLOAD_DIRECTORY": ""
+}
